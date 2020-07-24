@@ -29,7 +29,7 @@
 
   <section class="text-gray-700 body-font">
   <div class="container mx-auto flex px-5 py-24 items-center justify-center flex-col">
-    <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src="https://mail.google.com/mail/u/0/?ui=2&view=btop&ver=1nj101dboqm98#attid%253Datt_1737f848fa953603_0.1_1737f8458a74c0a693b1">
+    <img class="lg:w-2/6 md:w-3/6 w-5/6 mb-10 object-cover object-center rounded" alt="hero" src=""https://source.unsplash.com/720x600/?birthday,cake">
     <div class="text-center lg:w-2/3 w-full">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">HAPPY BIRTHDAY PRITISH SAMAL
         <br class="hidden lg:inline-block">a.k.a KRITI SANON
